@@ -1508,6 +1508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-04-24 20:20:47 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/miners_delight": {
     "criteria": {
       "miners_delight": "2025-04-20 08:35:53 -0700"
