@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-13 13:04:38 -0700"
@@ -80,6 +86,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-19 15:45:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-24 21:49:15 -0700"
     },
     "done": true
   },
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-04-15 19:22:19 -0700"
@@ -224,6 +242,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 12:54:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
     },
     "done": true
   },
@@ -290,6 +314,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-15 19:22:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
     },
     "done": true
   },
@@ -372,6 +402,7 @@
       "cooked_beef": "2025-04-13 22:32:38 -0700",
       "baked_potato": "2025-04-20 20:19:48 -0700",
       "potato": "2025-04-20 07:48:34 -0700",
+      "melon": "2025-04-24 21:53:40 -0700",
       "rotten_flesh": "2025-04-22 22:45:24 -0700",
       "cooked_chicken": "2025-04-19 20:19:26 -0700"
     },
@@ -1027,6 +1058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/ironwood_armor_set": {
     "criteria": {
       "boots": "2025-04-20 08:32:40 -0700"
@@ -1036,6 +1073,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-04-13 22:23:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
     },
     "done": true
   },
@@ -1195,6 +1238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-20 08:37:19 -0700"
@@ -1321,6 +1370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-04-24 21:49:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-15 22:54:52 -0700"
@@ -1381,6 +1436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-15 20:43:40 -0700"
@@ -1402,6 +1463,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-15 19:22:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
     },
     "done": true
   },
@@ -1432,6 +1499,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-13 22:26:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
     },
     "done": true
   },
@@ -1683,6 +1756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/fiery_blood_tears": {
     "criteria": {
       "armor": "2025-04-22 22:17:29 -0700"
@@ -1728,6 +1807,12 @@
   "twilightforest:alt/treasures/fiery_armor_set": {
     "criteria": {
       "boots": "2025-04-22 22:17:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
     },
     "done": true
   },
@@ -1782,6 +1867,18 @@
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2025-04-13 23:15:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
     },
     "done": true
   },
@@ -1881,6 +1978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-04-24 22:25:36 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/tools/empty_jar": {
     "criteria": {
       "has_glass": "2025-04-13 22:23:18 -0700"
@@ -1923,6 +2026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-04-20 08:37:42 -0700"
@@ -1944,6 +2053,12 @@
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_netherbrick": "2025-04-22 22:08:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_hardened_clay": {
+    "criteria": {
+      "has_hardened_clay": "2025-04-24 21:48:09 -0700"
     },
     "done": true
   },
