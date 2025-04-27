@@ -1347,6 +1347,12 @@
     },
     "done": true
   },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-04-26 19:53:00 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-04-13 22:14:50 -0700"
@@ -1925,6 +1931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-04-26 19:52:37 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-04-13 21:06:50 -0700"
@@ -2024,6 +2036,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2025-04-15 21:44:22 -0700"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2025-04-26 19:52:04 -0700"
     },
     "done": true
   },
