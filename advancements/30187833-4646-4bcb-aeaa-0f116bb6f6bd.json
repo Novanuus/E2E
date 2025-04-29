@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "enderio:gears/g3_iron_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-04-29 16:42:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-04-15 22:54:52 -0700"
@@ -602,6 +608,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-13 21:55:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-29 16:37:25 -0700"
     },
     "done": true
   },
@@ -980,6 +992,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-04-20 20:44:16 -0700",
+      "wither_skeleton": "2025-04-29 16:35:14 -0700",
       "zombie_villager": "2025-04-13 22:01:40 -0700",
       "magma_cube": "2025-04-26 08:11:22 -0700",
       "skeleton": "2025-04-13 20:20:32 -0700",
