@@ -55,6 +55,7 @@
   },
   "twilightforest:fiery_set": {
     "criteria": {
+      "head": "2025-04-29 21:00:50 -0700",
       "feet": "2025-04-22 22:17:29 -0700"
     },
     "done": false
@@ -1087,6 +1088,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2025-04-15 23:53:37 -0700"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "helmet": "2025-04-29 21:02:14 -0700"
     },
     "done": true
   },
