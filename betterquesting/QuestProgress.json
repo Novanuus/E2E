@@ -1074,9 +1074,9 @@
       "questID:3": 62,
       "completed:9": {
         "0:10": {
-          "claimed:1": 0,
+          "claimed:1": 1,
           "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
-          "timestamp:4": 1746217935364
+          "timestamp:4": 1747025806351
         }
       },
       "tasks:9": {
@@ -1099,10 +1099,18 @@
     },
     "62:10": {
       "questID:3": 63,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
+          "timestamp:4": 1747025824832
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd"
+          },
           "index:3": 1,
           "taskID:8": "bq_standard:checkbox"
         }
@@ -1184,9 +1192,9 @@
       "questID:3": 68,
       "completed:9": {
         "0:10": {
-          "claimed:1": 0,
+          "claimed:1": 1,
           "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
-          "timestamp:4": 1745772442581
+          "timestamp:4": 1747026217697
         }
       },
       "tasks:9": {
@@ -1211,9 +1219,9 @@
       "questID:3": 69,
       "completed:9": {
         "0:10": {
-          "claimed:1": 0,
+          "claimed:1": 1,
           "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
-          "timestamp:4": 1745809044391
+          "timestamp:4": 1747026214998
         }
       },
       "tasks:9": {
@@ -1517,10 +1525,18 @@
     },
     "91:10": {
       "questID:3": 92,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
+          "timestamp:4": 1747026252912
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd"
+          },
           "index:3": 0,
           "taskID:8": "bq_standard:checkbox"
         }
@@ -1576,7 +1592,13 @@
     },
     "96:10": {
       "questID:3": 97,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
+          "timestamp:4": 1747026255498
+        }
+      },
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {
@@ -2458,9 +2480,9 @@
       "questID:3": 157,
       "completed:9": {
         "0:10": {
-          "claimed:1": 0,
+          "claimed:1": 1,
           "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
-          "timestamp:4": 1746217704388
+          "timestamp:4": 1747026363351
         }
       },
       "tasks:9": {
@@ -4154,7 +4176,13 @@
     },
     "277:10": {
       "questID:3": 278,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
+          "timestamp:4": 1747026258400
+        }
+      },
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {
@@ -4271,7 +4299,13 @@
     },
     "286:10": {
       "questID:3": 287,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 1,
+          "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
+          "timestamp:4": 1747026262702
+        }
+      },
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {
