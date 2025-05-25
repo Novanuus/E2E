@@ -8937,9 +8937,9 @@
       "questID:3": 644,
       "completed:9": {
         "0:10": {
-          "claimed:1": 0,
+          "claimed:1": 1,
           "uuid:8": "30187833-4646-4bcb-aeaa-0f116bb6f6bd",
-          "timestamp:4": 1747969903125
+          "timestamp:4": 1748201378840
         }
       },
       "tasks:9": {
